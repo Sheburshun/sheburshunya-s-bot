@@ -1,0 +1,32 @@
+Privacy Policy for Sheburshunya's Bot
+
+1. General Information
+This document describes what data Sheburshunya's Bot collects, how it is used, and what measures are taken to protect your information.
+
+2. Collected Data
+The bot may collect and process the following information:
+
+Usernames – for logging and personalizing bot features.
+Discord IDs (UIDs) – unique user and server IDs for storing preferences and statistics.
+Messages (in limited cases) – only when the bot responds to commands or logs specific interactions.
+Server Information – server name, ID, and member list if required for bot functionality.
+3. How is the Data Used?
+The collected data is used to:
+
+Ensure the bot functions properly.
+Store user preferences and settings.
+Maintain activity logs (if applicable).
+4. Who Has Access to the Data?
+All collected data is accessible only to me (the developer) and is not shared with third parties, sold, or used for advertising purposes.
+
+5. Data Storage and Protection
+Personal data is not stored longer than necessary for the bot’s functionality.
+If the bot is removed from a server, all related data may be deleted.
+Access to the data is restricted and protected.
+6. Your Rights
+If you wish to delete your data, please contact me via [contact email / Discord server].
+
+7. Changes to This Policy
+This policy may change. It is recommended to check for updates periodically.
+
+Last updated: 07.02.2025
